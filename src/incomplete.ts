@@ -1,3 +1,2 @@
-export function incomplete(): never {
-  throw new Error("not implemented");
+export function incomplete(): void {
 }
